@@ -1,0 +1,42 @@
+1 - Abrir os olhos
+2 - Desligar o despertador
+3 - Voltar a dormir
+4 - Abrir os olhos
+5 - Desligar o despertador
+6 - Ficar de pé fora da cama
+7 - Andar até o banheiro
+8 - Fazer necessidades matinais
+9 - Sair do banheiro
+10 - Ir até a cozinha
+11 - Ir até a geladeira
+12 - Abrir a geladeira
+13 - Pegar o suco, queijo e margarina e colcoar sobre a mesa
+14 - Fechar a geladeira
+15 - Pegar 2 fatias de pão e colocar em um prato sobre a mesa
+16 - Pegar um copo e servir suco
+17 - Preparar um pão com queijo e margarina na sanduicheira
+18 - Abrir a geladeira
+19 - Guardar o suco, queijo e margarina na geladeira
+20 - Fechar a geladeira
+21 - Sentar à mesa
+22 - Comer o pão com queijo e margarina e beber o suco
+23 - Lavar o prato, a faca e o copo e colocar no escorredor de louças
+24 - Ir até o escritório
+25 - Abrir a porta
+26 - Andar até o notebook
+27 - Sentar à mesa de frente par o notebook
+28 - Ligar o notebook
+29 - Fazer a leitura da digital para desbloquear o notebook
+30 - Abrir o navegador
+31 - Acessar o e-mail institucional com e-mail e senha
+32 - Levantar da cadeira e andar até o quarto
+33 - Pegar o celular
+34 - Voltar para o escritório e sentar à mesa
+36 - Desbloquar celular
+35 - No celular, abrir o aplicativo Google Authenticator
+36 - Inserir código de acesso no livepass (notebook)
+37 - Verificar E-mail
+38 - Abrir Agenda
+39 - Clicar na aula do dia
+40 - Clicar no link do Google Meet
+41 - Entrar na reunião
